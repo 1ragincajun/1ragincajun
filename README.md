@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1ragincajun
-- 👀 I’m interested in CSS
+- 👀 I’m interested in CSS, AI, Stable Diffusion, and Security
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on Firefox projects.
+- 💞️ I’m looking to learn more
 - 📫 
 
 <!---
